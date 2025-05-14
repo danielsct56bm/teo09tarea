@@ -1,6 +1,6 @@
 namespace teoria09tarea.Models;
 
-public class ErrorViewModel
+public  class ErrorViewModel
 {
     public string? RequestId { get; set; }
 

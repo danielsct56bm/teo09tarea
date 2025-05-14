@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql.Scaffolding.Internal;
+using teoria09tarea.Models;
 
-namespace teoria09tarea.Models;
+namespace Domain.Entities;
 
 public partial class LinqLab9Context : DbContext
 {
